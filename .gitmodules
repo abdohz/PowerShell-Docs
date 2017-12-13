@@ -1,0 +1,18 @@
+[submodule "ext/libvpx"]
+	path = ext/libvpx
+	url = https://chromium.googlesource.com/webm/libvpx.git
+[submodule "ext/libwebp"]
+	path = ext/libwebp
+	url = https://chromium.googlesource.com/webm/libwebp.git
+[submodule "ext/libwebm"]
+	path = ext/libwebm
+	url = https://chromium.googlesource.com/webm/libwebm.git
+[submodule "ext/libvorbis"]
+	path = ext/libvorbis
+	url = https://git.xiph.org/vorbis.git
+[submodule "ext/libogg"]
+	path = ext/libogg
+	url = https://git.xiph.org/ogg.git
+[submodule "ext/opus"]
+	path = ext/opus
+	url = https://git.xiph.org/opus.git
