@@ -14,7 +14,7 @@ title:  Import-LocalizedData
 Imports language-specific data into scripts and functions based on the UI culture that is selected for the operating system.
 
 ## SYNTAX
-
+ 
 ```
 Import-LocalizedData [[-BindingVariable] <String>] [[-UICulture] <String>] [-BaseDirectory <String>]
  [-FileName <String>] [-SupportedCommand <String[]>] [<CommonParameters>]
